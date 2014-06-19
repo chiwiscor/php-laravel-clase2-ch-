@@ -6,10 +6,10 @@ $lenguaje="PHP con laravel";
 
 verVista($vista,compact("titulo","lenguaje"));
 */
-class ControladorHome()
-{
+class ControladorHome{
 	public function accionIndex()
 	{
-
+		exit("zz");
 	}
+	public function 
 }
